@@ -56,15 +56,15 @@
 
 // }
 
-// to change datatype
-// #include<stdio.h>
-// int main() {
-//     int n = 45;
-//     float m = 45.33;
+to change datatype
+#include<stdio.h>
+int main() {
+    int n = 45;
+    float m = 45.33;
 
-//     n = (int)m; // this will convert the float value of m to an integer and assign it to n.
-//     // The decimal part will be truncated, so n will become 45.
-//     printf("the value of n is %d\n", n); // output will be 45.
-//     return 0;
-// }
+    n = (int)m; // this will convert the float value of m to an integer and assign it to n.
+    // The decimal part will be truncated, so n will become 45.
+    printf("the value of n is %d\n", n); // output will be 45.
+    return 0;
+
 
